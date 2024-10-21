@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb788ca4_002D1877_002D43c5_002D8513_002D2ab3679084c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetUserDetails" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C84B44FD-739F-4FBA-81AD-365915F4F99D::net8.0::TestAssignmentApi.Testcases.ApiTests.GetUserDetails&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C84B44FD-739F-4FBA-81AD-365915F4F99D::net8.0::TestAssignmentApi.Testcases.ApiTests.CreateUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F7E29E8-A0DE-49E1-8F8E-C7AFA62906ED::net8.0::TestAssignmentUI.Testcases.OrderFlowTestcases.ValidateOrderFlowScreens&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
