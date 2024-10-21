@@ -15,7 +15,7 @@ This repo consists of the solution in .net 8 with tests written using Nunit and 
 First, clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/bijoyanty/TestProject]
+git clone [Repo](https://github.com/bijoyanty/TestProject)
 ```
 
 ## Steps to run the actual Test
